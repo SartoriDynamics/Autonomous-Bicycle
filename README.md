@@ -53,8 +53,6 @@ Copyright (c) 2024 GTI - UFMG
 - **Python codes/** → Notebooks and scripts for analysis:
   - `Balance_LQR_Controller_Design.ipynb`: LQR controller design and simulation.
   - `Velocity_PI_Controller_Design.ipynb`: Velocity PI controller design.
-  - `Save_Data_During.ipynb`: Real-time data acquisition.
-  - `Save_Data_After.ipynb`: Post-experiment data processing.
 
 ---
 
